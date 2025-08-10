@@ -1,1 +1,1 @@
-<h3 align="center">A Cybersecurity student that wanabepentester.</h3>
+<h3 align="center">Wanabepentester.</h3>
